@@ -29,7 +29,6 @@ features:
     title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - icon: ⛩️
-    title: Test C2
+    title: Test C243345657
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
