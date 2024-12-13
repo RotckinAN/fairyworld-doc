@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Read Fairy docs
-      link: /markdown-examples
+      link: /pages/markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: API Examples-232у4
+      link: /pages/api-examples
 
 features:
   - icon: 📱
