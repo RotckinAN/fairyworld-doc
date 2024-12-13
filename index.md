@@ -23,6 +23,6 @@ features:
     title: Marketing
     details: There will be a description of marketing here
   - icon: ⛩️
-    title: Feature C-q
+    title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
