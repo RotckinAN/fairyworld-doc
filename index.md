@@ -6,7 +6,7 @@ hero:
   name: "Fairyland docs"
   text: ""
   tagline: Join a new world that goes beyond your smartphone screen
-  image: "/assets/fairy-icon.svg"
+  image: "/fairy-icon.svg"
   actions:
     - theme: brand
       text: Read Fairy docs
