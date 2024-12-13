@@ -14,6 +14,9 @@ hero:
     - theme: alt
       text: API Examples-232у4
       link: /pages/api-examples
+    - theme: brand
+      text: Test 1 Button
+      link: /pages/api-examples
 
 features:
   - icon: 📱
@@ -25,4 +28,8 @@ features:
   - icon: ⛩️
     title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: ⛩️
+    title: Test C2
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+
